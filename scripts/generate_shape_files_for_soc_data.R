@@ -32,7 +32,7 @@ year_of_analysis <- 2024
 
 input_file_path <- paste0("data-output/soc_data_summarized_by_census_division_", year_of_analysis, ".xlsx")
 
-census_division_shape_file_path <- "C:/Users/ikennedy/OneDrive - JBREC/Documents/shapefiles/2023/Census Divisions/cb_2023_us_division_20m.shp"
+census_division_shape_file_path <- "C:/Users/ianwe/Downloads/shapefiles/2023/Census Divisions/cb_2023_us_division_20m.shp"
 
 # Read in data ----
 
