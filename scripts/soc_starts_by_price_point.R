@@ -31,7 +31,7 @@ rm(install_if_missing, packages)
 # File paths ----
 
 # Set the FRED API Key
-fredr_set_key(key = 'c1f7f3d38687246c6d6e5b83898af5a1')
+fredr_set_key(key = 'cbebc48b543b6420b4aa3ff9bd7a9878')
 
 # Import Census Data 
 soc_data_folder <- "data/"
